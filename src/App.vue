@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+    <!-- 路由入口 -->
     <router-view />
-    <h1>111111111</h1>
+    <h1 class="toutiao toutiao-guanbi ">111111111</h1>
+    <van-button type="primary">主要按钮</van-button>
   </div>
 </template>
 <script>
